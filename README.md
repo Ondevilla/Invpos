@@ -1,2 +1,1 @@
-# Invpos
-Laravel / Angular Js
+https://github.com/Ondevilla/Invpos
